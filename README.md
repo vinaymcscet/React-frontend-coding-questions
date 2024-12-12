@@ -1,3 +1,11 @@
+1. Custom Carousel
+2. StopWatch
+3. Vs Code Style Folder Structure in react
+     a - Add, Delete, Edit functionality.
+     b - Save data on LocalStorage also.
+![image](https://github.com/user-attachments/assets/0d949b7f-05cf-4b20-bbf2-15b3bec7b80a)
+ 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
